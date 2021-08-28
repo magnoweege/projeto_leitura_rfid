@@ -6,10 +6,10 @@ Foi utilizado um módulo RFID em conjunto com o Arduino com o seguinte esquema d
 
 Abaixo a sequência das telas para utilização de um controle de acesso:
 
-Tela 01
+Tela 01 <br>
 <img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid01.png">
 
-Tela 02
+Tela 02 <br>
 <img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid02.png">
 
 Tela 03
