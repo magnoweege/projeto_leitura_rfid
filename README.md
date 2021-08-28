@@ -10,10 +10,10 @@ Tela 01
 <img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid01.png">
 
 Tela 02
-<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid01.png">
+<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid02.png">
 
 Tela 03
-<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid01.png">
+<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid03.png">
 
 Tela 04
-<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid01.png">
+<img src="https://github.com/magnoweege/projeto_leitura_rfid/blob/main/img/tela_rfid04.png">
