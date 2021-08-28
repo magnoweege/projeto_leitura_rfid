@@ -1,0 +1,30 @@
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\umwoli1\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Casa\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.pdb
+C:\Users\umwoli1\Desktop\Visual\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.Linq.pdb
+J:\Arquivos\01 - TCC\#ATUAL\FINAL\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\Arquivos\01 - TCC\#ATUAL\FINAL\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\Arquivos\01 - TCC\#ATUAL\FINAL\Visual\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
